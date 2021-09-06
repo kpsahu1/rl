@@ -1,1 +1,1 @@
-# Reinforcement Learning related Problems and its solution
+# Reinforcement Learning related Problems
